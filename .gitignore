@@ -1,0 +1,18 @@
+# compiled objects
+*.o
+*.out
+*.exe
+
+# build artifacts
+build/
+bin/
+*.db
+*.tar.gz
+
+# editor files
+.vscode/
+*.swp
+.DS_Store
+
+# data/extracted test data (optional)
+data/

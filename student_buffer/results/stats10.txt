@@ -1,0 +1,8 @@
+=== Workload Results (READ_RATIO = 0.1) ===
+
+Hits: 159
+Misses: 841
+Logical Reads: 1000
+Logical Writes: 501
+Physical Reads: 841
+Physical Writes: 456
